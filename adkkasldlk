@@ -1,0 +1,67 @@
+[33mcommit d50eb7733c273200e29bdfc7a95b523084f47128[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ahmad Hassan <ahmadalink1@gmail.com>
+Date:   Thu Aug 24 08:27:02 2023 +0500
+
+    second test
+
+[33mcommit d0699482746df92ced2d24884a5e0a0102465fe0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a73d5a1 d5d81aa
+Author: Ahmad Hassan <ahmadalink1@gmail.com>
+Date:   Wed Aug 23 15:32:17 2023 +0500
+
+    Merge branch 'second'
+
+[33mcommit d5d81aa3553a69ea18f0efc3b1f17fc9a53420dd[m[33m ([m[1;31morigin/second[m[33m)[m
+Author: Ahmad Hassan <ahmadalink1@gmail.com>
+Date:   Wed Aug 23 15:29:12 2023 +0500
+
+    second branch
+
+[33mcommit d1249c89fe870df714fd5b87057726b4d02218ba[m
+Merge: 2cb64d8 b49cb22
+Author: Ahmad Hassan <ahmadalink1@gmail.com>
+Date:   Wed Aug 23 14:43:08 2023 +0500
+
+    Merge branch 'second' of https://github.com/Ahmadhassan0/branches into second
+
+[33mcommit a73d5a1cb4824dfb3130b06c26336d5dfa1dfc9c[m
+Author: Ahmad Hassan <ahmadalink1@gmail.com>
+Date:   Wed Aug 23 14:36:18 2023 +0500
+
+    git
+
+[33mcommit b49cb22095a1621268e7a0eb3af77d8713a9d717[m
+Author: Ahmad Hassan <ahmadalink1@gmail.com>
+Date:   Wed Aug 23 14:32:58 2023 +0500
+
+    g
+
+[33mcommit 4090fdfeb31271557994c080b1939678e6c56745[m
+Author: Ahmad Hassan <ahmadalink1@gmail.com>
+Date:   Wed Aug 23 14:32:01 2023 +0500
+
+    n
+
+[33mcommit 2cb64d8dffcbedb09858ad4001eb5cd5d7fbf26d[m
+Author: Ahmad Hassan <ahmadalink1@gmail.com>
+Date:   Wed Aug 23 14:28:31 2023 +0500
+
+    z
+
+[33mcommit 1bed343b36209eef1c5730f9b82ccd1771b58432[m
+Author: Ahmad Hassan <ahmadalink1@gmail.com>
+Date:   Wed Aug 23 14:25:28 2023 +0500
+
+    g
+
+[33mcommit 275a7f9b4ea4a240d82c4e31979f9e0a9441f337[m
+Author: Ahmad Hassan <ahmadalink1@gmail.com>
+Date:   Wed Aug 23 14:22:13 2023 +0500
+
+    f
+
+[33mcommit bd907179a573955eaa6adb96b9097fd485d1f2f8[m
+Author: Ahmad Hassan <112851240+Ahmadhassan0@users.noreply.github.com>
+Date:   Wed Aug 23 14:05:52 2023 +0500
+
+    Initial commit
